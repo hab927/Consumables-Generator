@@ -1,0 +1,98 @@
+{
+    "BottleShapes": [
+        "Round",
+        "Square",
+        "Tall",
+        "Geometric",
+        "Oval"
+    ],
+    "Types": [
+        "Potion",
+        "Flask",
+        "Vial",
+        "Viand",
+        "Syringe",
+        "Pill"
+    ],
+    "TieredEffects": [
+        "Jump Boost",
+        "Mana Recovery",
+        "Strength",
+        "Regeneration",
+        "Luck",
+        "Healing",
+        "Speed",
+        "Slowness",
+        "Levitation"
+    ],
+    "UntieredEffects": [
+        "Death Defiance",
+        "Invincibility",
+        "Invisibility",
+        "Time Stop",
+        "Gravity Reversal"
+    ],
+    "SerializableColors": [
+        {
+            "name": "Red",
+            "color": {
+                "r": 255,
+                "g": 0,
+                "b": 0,
+                "a": 255
+            }
+        },
+        {
+            "name": "Green",
+            "color": {
+                "r": 0,
+                "g": 255,
+                "b": 0,
+                "a": 255
+            }
+        },
+        {
+            "name": "Blue",
+            "color": {
+                "r": 0,
+                "g": 0,
+                "b": 255,
+                "a": 255
+            }
+        },
+        {
+            "name": "Yellow",
+            "color": {
+                "r": 255,
+                "g": 255,
+                "b": 0,
+                "a": 255
+            }
+        },
+        {
+            "name": "Magenta",
+            "color": {
+                "r": 255,
+                "g": 0,
+                "b": 255,
+                "a": 255
+            }
+        },
+        {
+            "name": "Cyan",
+            "color": {
+                "r": 0,
+                "g": 255,
+                "b": 255,
+                "a": 255
+            }
+        }
+    ],
+    "MaxTier": 5,
+    "Spt": 15,
+    "ScaleDown": false,
+    "RandMin": 10,
+    "RandMax": 30,
+    "RaritySkew": 1,
+    "UntieredChance" : 0.25
+}
